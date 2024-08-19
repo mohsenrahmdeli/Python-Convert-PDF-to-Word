@@ -1,7 +1,6 @@
 import aspose.words as aw
 import os
 
-
 pdf_path = r"You Path of PDF File"
 doc = aw.Document(pdf_path)
 
